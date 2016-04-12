@@ -3,7 +3,7 @@
 // CMPS 335 Spring 2016
 // 
 
-//cs335 Spring 2015 Lab-1
+//cs335 Spring 2015 Lab-1/HW1
 //This program demonstrates the use of OpenGL and XWindows
 //
 //Assignment is to modify this program.
